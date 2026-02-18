@@ -55,19 +55,6 @@ Análisis exploratorio de datos (EDA) aplicado a un dataset de retail online con
 - **Valor Monetario:** ingresos totales por cliente
 - Curva de Pareto: concentración de ingresos en clientes clave
 
-## Cómo ejecutar
-1. Clonar el repositorio
-```bash
-git clone https://github.com/tu_usuario/nombre_repositorio.git
-```
-2. Instalar dependencias
-```bash
-pip install pandas matplotlib seaborn openpyxl
-```
-3. Colocar el archivo `online_retail.xlsx` en la carpeta raíz
-4. Ejecutar el script deseado
-```bash
-python limpieza_de_datos_completo.py
 ```
 
 ## Autor
